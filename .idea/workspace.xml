@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ff8d6c8-c3c8-44d2-b35a-0a04fb8c6984" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../untitled\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9t2FP8iBehsRjlekXWiGRCB6u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ff8d6c8-c3c8-44d2-b35a-0a04fb8c6984" name="Default Changelist" comment="" />
+      <created>1578573428961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578573428961</updated>
+      <workItem from="1578573433586" duration="1527000" />
+      <workItem from="1578575166709" duration="55000" />
+      <workItem from="1579884028776" duration="17000" />
+      <workItem from="1579999948087" duration="450000" />
+      <workItem from="1580049724205" duration="3121000" />
+      <workItem from="1580306420247" duration="373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1845" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1580051778407">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1845" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580051778407" />
+    <state x="519" y="68" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1578574551957" />
+    <state x="472" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578573618314">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="472" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/62.0.1304.768@62.0.1304.768" timestamp="1578573618314" />
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1578575141765">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1578575141765" />
+    <state width="1261" height="192" key="GridCell.Tab.0.center" timestamp="1578575141765">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1578575141765" />
+    <state width="1261" height="192" key="GridCell.Tab.0.left" timestamp="1578575141765">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1578575141765" />
+    <state width="1261" height="192" key="GridCell.Tab.0.right" timestamp="1578575141765">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1578575141765" />
+    <state x="194" y="0" key="SettingsEditor" timestamp="1578575178103">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="194" y="0" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1578575178103" />
+    <state x="415" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1578575171259">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="415" y="208" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1578575171259" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578575015502">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1578575015502" />
+  </component>
+</project>
