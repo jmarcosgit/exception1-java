@@ -31,14 +31,22 @@ public class Reservation {
     public Date getCheckOut() {
         return checkOut;
     }
-    public long duration(){
+
+    public long duration() {
         long diff = checkOut.getTime() - checkIn.getTime();
         return TimeUnit.DAYS.convert(diff, TimeUnit.MILLISECONDS);
     }
 
-    public  void updateDates(Date checkIn, Date checkOut){
+    public String updateDates(Date checkIn, Date checkOut) {
+        Date now = new Date();
+        if (checkIn.before(now) || checkOut.before(now)) {
+            return "Error in reservation: bla bla bla";
+        } else if (!checkOut.after(checkIn)) {
+            return "Error in reservation: bla bla bla";
+        }
         this.checkIn = checkIn;
         this.checkOut = checkOut;
+        return null;
     }
 
     @Override
